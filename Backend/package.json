@@ -1,0 +1,36 @@
+{
+  "name": "shri-narayan-telecom-backend",
+  "version": "1.0.0",
+  "description": "Mobile Shop Billing & Showcase REST API with MVC Architecture",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.3",
+    "mongodb": "^7.8.0",
+    "mongoose": "^9.11.4",
+    "pg": "^8.16.3",
+    "vite": "^8.3.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "keywords": [
+    "mobile-shop",
+    "billing",
+    "pos",
+    "express",
+    "mongodb",
+    "mvc",
+    "gst-invoice"
+  ],
+  "author": "Shri Narayan Telecom",
+  "license": "ISC"
+}

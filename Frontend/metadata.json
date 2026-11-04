@@ -1,0 +1,6 @@
+{
+  "name": "Shri Narayan Telecom - Mobile Shop Billing & Showcase",
+  "description": "Comprehensive Mobile Shop web application featuring a customer showcase storefront, inventory management with IMEI tracking, POS billing, and pixel-perfect tax invoice generation matching Shri Narayan Telecom layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
