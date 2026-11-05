@@ -67,7 +67,7 @@ async function startServer() {
   }
 
   app.listen(PORT, '0.0.0.0', () => {
-    console.log(`Shri Narayan Telecom app running at http://localhost:${PORT}`);
+    console.log(`Madhav Communication app running at http://localhost:${PORT}`);
   });
 }
 
